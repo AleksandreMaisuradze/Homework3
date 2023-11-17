@@ -59,3 +59,17 @@ console.log(result2);
 // 4
 
 
+//5
+
+function evenOrOdd(number){
+    if(number % 2 == 0){
+        console.log('this number is even');
+    }
+    else{
+        console.log("this number is odd");
+    }
+}
+
+evenOrOdd(5)
+
+//6
